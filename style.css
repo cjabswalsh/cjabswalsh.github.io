@@ -1,16 +1,19 @@
 body {
 	font-family: "Times",serif;
 	background-color: #D7BDE2;
-	/*text-align: center;*/
+	margin-left: 5%;
+	margin-right:5%;
 }
 
 h1 {
 	text-align: center;
-	font-size: 36px;
+	background-color: #C39BD3;
 }
 
 h2 {
 	font-size: 20px;
+	border: dotted;
+	border-color:  #C39BD3;
 }
 
 p {
@@ -19,10 +22,6 @@ p {
 
 p + ul {
 	margin-top: -15px;
-}
-
-li {
-	font-size: 14px;
 }
 
 .bold {
