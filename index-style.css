@@ -4,8 +4,9 @@ body {
 	text-align: center;
 }
 
-.headshot {
-    height: 60%;
+img {
+    max-height: 60%;
+    width: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
