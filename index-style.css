@@ -1,0 +1,12 @@
+body {
+	background-color: #D7BDE2;
+	font-family: "Times",sans-serif;
+	text-align: center;
+}
+
+.headshot {
+    height: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
