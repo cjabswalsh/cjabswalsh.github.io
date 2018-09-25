@@ -5,9 +5,5 @@ body {
 }
 
 img {
-    max-height: 60%;
-    width: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    height: 460px;
 }
