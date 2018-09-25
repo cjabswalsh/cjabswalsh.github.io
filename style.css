@@ -1,6 +1,7 @@
 body {
-	font-family: "Times",sans-serif;
+	font-family: "Times",serif;
 	background-color: #D7BDE2;
+	/*text-align: center;*/
 }
 
 h1 {
@@ -16,8 +17,8 @@ p {
 	font-size: 18px;
 }
 
-p, ul {
-	margin: 0;
+p + ul {
+	margin-top: -15px;
 }
 
 li {
